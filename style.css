@@ -407,4 +407,8 @@ body,
   .email-container .filed {
     width: 300px;
   }
+  .icon-container{
+    display: none;
+  }
+  
 }
